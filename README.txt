@@ -1,4 +1,5 @@
 Poker Hand Comparison
+
 Problem Description
 Your task is to compare several pairs of poker hands and determine which one, if any, has a higher rank. The game follows the rules described below.
 
@@ -15,6 +16,4 @@ Straight: Hand contains 5 cards with consecutive values. Ranked by the highest c
 Flush: Hand contains 5 cards of the same suit. Ranked using the rules for High Card.
 Full House: Three cards of the same value, with the remaining 2 forming a pair. Ranked by the value of the 3 cards.
 Four of a Kind: Four cards with the same value. Ranked by the value of the 4 cards.
-Straight Flush: 5 cards of the same suit with consecutive values. Ranked by the highest card.
-Clues
-None as yet.
+Straight Flush: 5 cards of the same suit with consecutive values. Ranked by
